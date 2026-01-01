@@ -1,0 +1,9 @@
+{
+  "appId": "com.exyrel.app",
+  "appName": "Exyrel App",
+  "webDir": "https://exyrel.netlify.app/",
+  "server": {
+    "url": "https://exyrel.netlify.app",
+    "cleartext": true
+  }
+}

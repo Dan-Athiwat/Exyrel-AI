@@ -1,0 +1,19 @@
+{
+  "name": "exyrel-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step, using raw HTML'"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  },
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
